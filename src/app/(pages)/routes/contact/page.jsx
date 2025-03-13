@@ -23,16 +23,16 @@ const Contact = () => {
             </div>
           </div>
 
-          <div className="bg-gray-900 p-6 rounded-lg shadow-lg flex items-center gap-4 hover:bg-gray-800 transition">
-            <img src="/share.svg" alt="Social" className="w-10 h-10 invert" />
+          <div className="bg-gray-900 p-4 rounded-lg shadow-lg flex items-center gap-4 hover:bg-gray-800 transition">
+            <img src="/share.svg" alt="Social" className="w-10 h-7 invert" />
             <div>
               <h3 className="text-lg font-semibold text-green-400">Social Profiles</h3>
               <SocialLinks />
             </div>
           </div>
 
-          <div className="bg-gray-900 p-6 rounded-lg shadow-lg flex items-center gap-4 hover:bg-gray-800 transition">
-            <img src="/phone.svg" alt="Call" className="w-10 h-10 invert" />
+          <div className="bg-gray-900 p-4 rounded-lg shadow-lg flex items-center gap-4 hover:bg-gray-800 transition">
+            <img src="/phone.svg" alt="Call" className="w-10 h-7 invert" />
             <div>
               <h3 className="text-lg font-semibold text-green-400">Call</h3>
               <p className="text-gray-300 text-sm">+92 3475544614</p>
