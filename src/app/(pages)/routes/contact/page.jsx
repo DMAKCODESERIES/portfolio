@@ -3,7 +3,7 @@ import SocialLinks from "@/components/SocialLinks";
 const Contact = () => {
   return (
     <section className="bg-black text-white py-16 px-6">
-      <div className="max-w-5xl mx-auto flex flex-col gap-10 min-h-screen px-4 md:px-0 mt-11">
+      <div className="max-w-5xl mx-auto flex flex-col gap-10 h-[70vh] px-4 md:px-0 mt-11">
         <h2 className="text-3xl font-bold">Contact <span className="border-b-2 border-green-500 w-16 inline-block"></span></h2>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 mt-8">
